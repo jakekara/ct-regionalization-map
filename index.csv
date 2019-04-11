@@ -1,0 +1,125 @@
+Town,pop_int,lt_2000,ELEM
+Ansonia,18813,False,100
+Avon,18352,False,2
+Berlin,20505,False,100
+Bethel,19802,False,100
+Bloomfield,21406,False,2
+Bolton,4916,True,100
+Bozrah,2563,True,100
+Branford,28111,False,100
+Bridgeport,146579,False,100
+Bristol,60223,False,100
+Brookfield,17133,False,2
+Brooklyn,8208,True,1
+Canterbury,5075,True,1
+Canton,10298,True,1
+Cheshire,29330,False,100
+Clinton,12957,True,2
+Colchester,16029,False,2
+Columbia,5418,True,100
+Coventry,12439,True,2
+Cromwell,13956,True,2
+Danbury,85246,False,100
+Darien,21887,False,100
+Derby,12581,True,2
+East Granby,5166,True,2
+East Haddam,9036,True,1
+East Hampton,12901,True,2
+East Hartford,50319,False,100
+East Haven,28857,False,100
+East Lyme,18789,False,100
+East Windsor,11395,True,1
+Eastford,1756,False,100
+Ellington,16195,False,100
+Enfield,44585,False,100
+Fairfield,62105,False,100
+Farmington,25572,False,100
+Franklin,1944,True,100
+Glastonbury,34575,False,100
+Granby,11357,False,2
+Greenwich,62855,False,100
+Griswold,11687,True,1
+Groton,39075,False,100
+Guilford,22283,False,100
+Hamden,61284,False,100
+Hartford,123400,False,100
+Hartland,2112,True,100
+Killingly,17172,False,2
+Lebanon,7209,True,1
+Ledyard,14837,False,1
+Lisbon,4274,True,100
+Litchfield,8168,True,1
+Madison,18196,False,100
+Manchester,57932,False,100
+Meriden,59927,False,100
+Middletown,46478,False,100
+Milford,54508,False,100
+Monroe,19635,False,100
+Montville,19149,False,100
+Naugatuck,31461,False,100
+New Britain,72710,False,100
+New Canaan,20376,False,100
+New Fairfield,14017,False,2
+New Haven,131014,False,100
+New London,27072,False,100
+New Milford,27099,False,100
+Newington,30404,False,100
+Newtown,27965,False,100
+North Branford,14208,True,2
+North Haven,23751,False,100
+North Stonington,5270,True,1
+Norwalk,89005,False,100
+Norwich,39470,False,100
+Old Saybrook,10132,True,1
+Oxford,13035,True,2
+Plainfield,15093,False,100
+Plainville,17705,False,100
+Plymouth,11718,True,2
+Pomfret,4167,True,100
+Portland,9360,True,2
+Preston,4666,True,1
+Putnam,9357,True,1
+Ridgefield,25187,False,100
+Rocky Hill,20105,False,2
+Salem,4141,True,100
+Salem,4141,True,100
+Salisbury,3623,True,100
+Seymour,16583,False,2
+Shelton,41397,False,100
+Sherman,3643,True,100
+Simsbury,24952,False,100
+Somers,11106,True,1
+South Windsor,25937,False,100
+Southington,43863,False,100
+Sprague,2914,True,100
+Stafford,11949,True,100
+Stamford,130824,False,100
+Sterling,3742,True,100
+Stonington,18593,False,100
+Stratford,52345,False,2
+Suffield,15698,False,2
+Thomaston,7602,True,1
+Thompson,9288,True,1
+Tolland,14722,False,2
+Torrington,34538,False,100
+Trumbull,36154,False,100
+Union,839,True,100
+Vernon,29289,False,100
+Voluntown,2558,True,100
+Wallingford,44741,False,100
+Waterbury,108629,False,100
+Waterford,19007,False,100
+Watertown,21740,False,100
+West Hartford,63133,False,100
+West Haven,54843,False,100
+Westbrook,6956,True,1
+Weston,10331,False,2
+Westport,28042,False,100
+Wethersfield,26195,False,100
+Wilton,18581,False,2
+Winchester,10739,False,1
+Windham,24686,False,100
+Windsor,28898,False,100
+Windsor Locks,12554,True,2
+Wolcott,16672,True,100
+Woodstock,7809,True,1

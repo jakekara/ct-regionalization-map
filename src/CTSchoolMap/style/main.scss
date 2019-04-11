@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Karla:400');
+
+body {
+
+    font-family: 'Karla', sans-serif;
+
+}
+
+.town {
+    fill: white;
+    stroke-width: 1;
+    stroke: black;
+    cursor: pointer;
+}
+
+.title{
+    font-size: 24px;
+}
+
+.caption {
+    text-align: center;
+}
+
+.explainer, .byline, .sourceline, .legend-container{
+    color: gray;
+}
+
+.byline, .sourceline, .legend-container{
+    font-size: 12px;
+}
+
+.byline{
+    text-align: right;
+}
+
+.legend-container{
+    display: flex;
+    justify-content: space-around;
+    min-width: 200px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.item-widget{
+    height: 2em;
+    width: 2em;
+    border: 1px solid black;
+    margin-right: 2px;
+}
+
+.smalltown-item .item-widget{
+    background-color: #f2f79e;
+}
+.smalldistrict-item .item-widget{
+    background-color: #8fb8de;
+}
+.twoschools-item .item-widget{
+    background-color: #8c7284;
+
+}
+.both-item .item-widget{
+    background-color: #73ab84;
+}
+
+// "class":"smalltown-item"
+// },{
+//     "label":"Small district",
+//     //"color":"black",
+//     "class":"smalldistrict-item"
+// },{
+//     "label":"Small town & district",
+//     //"color":"black",
+//     "class":"both-item"
+// },{
+//     "label":"(est.) 2 schools",
+//     //"color":"black",
+//     "class":"twoschools-item"
